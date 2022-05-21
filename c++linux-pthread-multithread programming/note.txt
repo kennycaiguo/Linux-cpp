@@ -1,0 +1,3 @@
+注意：默认情况下创建的是可连接线程，该线程计算退出了也不会释放资源，需要在父线程中使用pthread_join函数来回收资源
+如果需要创建可分离线程，需要在创建的时候使用宏PTHREAD_CREATE_DETACHED.
+这里multi-thread1到multi-thread5创建的都是默认线程也就是不可分离（开连接）线程

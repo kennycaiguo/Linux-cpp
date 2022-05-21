@@ -1,0 +1,4 @@
+Valid priority range for SCHED_OTHER:0-0
+Valid priority range for SCHED_FIFO:1-99
+Valid priority range for SCHED_RR:1-99
+
