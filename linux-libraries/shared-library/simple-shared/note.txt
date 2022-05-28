@@ -1,0 +1,7 @@
+1.create a lib source file simplelib.cpp
+2.use g++ to compile to a .so file:  g++ simplelib.cpp -fPIC -shared -o libsimple.so
+3.create a test source file test.cpp,you need to declare the function inside the lib befor calling it.
+4.compile the test source file with the lib file : g++ -o test test.cpp -L. -lsimple
+5.test the code: ./test
+
+

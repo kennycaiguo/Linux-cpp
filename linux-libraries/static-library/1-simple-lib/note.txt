@@ -1,0 +1,8 @@
+1.create a lib source file simplelib.cpp
+2.use g++ to compile to a .o file: g++ -c simplelib.cpp
+3.use ar command to create a libXXX.a file : ar rsc libsimple.a simplelib.o
+4.create a test source file test.cpp,you need to declare the function inside the lib befor calling it.
+5.compile the test source file with the lib file : g++ -o test test.cpp -L. -lsimple
+6.test the code: ./test
+
+
