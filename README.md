@@ -14,3 +14,4 @@ linux下面的c++编程，可以用于c++服务器开发
 # <a href="https://github.com/nem0/LumixEngine">3D C++ Game Engine - yet another open source game engine</a>
 # <a href="https://github.com/1184893257/simplelinux">朴素linux，介绍linux和C的一些底层知识</a>
 # <a href="https://github.com/yaouser/C">linux下的C语言及关于kernel的介绍</a>
+# <a href="https://github.com/XWHQSJ/ebooks">A repository for ebooks， including C, C plus plus, Linux Kernel, Compiler, OS, Algorithm, Security, Database, Network, ML and DL</a>
