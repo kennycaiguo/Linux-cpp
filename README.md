@@ -17,3 +17,4 @@ linux下面的c++编程，可以用于c++服务器开发
 # <a href="https://github.com/yaouser/C">linux下的C语言及关于kernel的介绍</a>
 # <a href="https://github.com/XWHQSJ/ebooks">A repository for ebooks， including C, C plus plus, Linux Kernel, Compiler, OS, Algorithm, Security, Database, Network, ML and DL</a>
 # <a href="https://github.com/fujie-xiyou/chat_room">聊天室 -- 17年暑假项目(Linux C网络编程)</a>
+# <a href="https://github.com/liao20081228/wangdao_study_note">linux cpp学习笔记以及文档</a>
