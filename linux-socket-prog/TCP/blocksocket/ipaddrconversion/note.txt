@@ -1,0 +1,1 @@
+linux socket编程的编译只需要：g++ -o 输出文件名 cpp文件,如果使用到了pthread，需要加-lpthread，如果使用到了c++11，还需要 -std=c++11
