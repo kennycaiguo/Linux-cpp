@@ -1,2 +1,6 @@
 解决openssl编程中SSL_library_init()没有定义的引用，
 编译是时候需要加 -lcrypto 和 -lssl
+如果是自己编译安装的openssl，需要添加-L/usr/local/ssl/lib，如:
+gcc foo.c -o foo.exe -L/usr/local/ssl/lib -lssl -lcrypto
+如果您使用的是系统的OpenSSL，则可以省略
+-L/usr/local/ssl/lib
