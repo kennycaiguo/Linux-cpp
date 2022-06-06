@@ -1,0 +1,2 @@
+解决openssl编程中SSL_library_init()没有定义的引用，
+编译是时候需要加 -lcrypto 和 -lssl
